@@ -1,4 +1,4 @@
 # Jamnapar
 Newbies 
 <br>
-author - Anugrah Sharma
+Author - Anugrah Sharma
