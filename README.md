@@ -1,4 +1,4 @@
 # Jamnapar
 Newbies 
 <br>
-Author - Anugrah Sharma
+Author - Anugrah Sharma , Utkarsh Singh , Harshit Sharma
